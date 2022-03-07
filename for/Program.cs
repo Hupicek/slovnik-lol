@@ -13,3 +13,4 @@ foreach (var řádek in ahoj)
 {
     Console.WriteLine($"klíč: {řádek.Key} hodnota: {řádek.Value}");
 }
+ahooooooooooooooj
